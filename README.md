@@ -34,9 +34,9 @@ Tuesdays | Thursdays
 **Resources**
  
  - [Lecture 1 - Introduction - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%201%20-%20Introduction.pptx)
- - [Intro Numpy - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture1_Intro_Numpy.ipynb)
+ - [Intro Numpy - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201_Intro_Numpy.ipynb)
  - [Intro Numpy - Code - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201_Intro_Numpy_Solutions.ipynb)
- - [Intro Pandas - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture1_Intro_Pandas.ipynb)
+ - [Intro Pandas - Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201_Intro_Pandas.ipynb)
  - [InClass Practice Code - Pandas](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code.ipynb)
  - [InClass Practice Code - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%201-Practice-Code-Solutions.ipynb)
  
@@ -70,6 +70,7 @@ Tuesdays | Thursdays
  - [Lecture 2 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%202%20-%20Introduction%20-%20Part%202.pptx) 
  - [Basic Statistics - Part 2 - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%202%20-%20Intro.ipynb) 
  - [Basic Statistics - Part 2 - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%202-%20Intro%20-Practice-Code.ipynb)
+ - [Basic Statistics - Part 2 - Practice Code - Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%202-%20Intro%20-Practice-Code-Solutions.ipynb)
 
 
 **HW 1 is Assigned**
@@ -81,3 +82,30 @@ Tuesdays | Thursdays
 
  - [Here](http://matplotlib.org/resources/index.html) you can find valuable resources for matplotlib
  - [A good Video](https://www.youtube.com/watch?v=Pujol1yC1_A) on Centeral Limit Theorem
+ 
+
+## Lecture 3 Summary (Linear Regression Lines - Part I)
+- Linear Regression lines
+- Single Variable and Multi-Variable Regression Lines
+- Capture non-linearity using Linear Regression lines.
+- Interpretting regression coefficients
+- Dealing with dummy variables in regression lines
+- intro on sklearn and searborn library
+
+**Resources**
+ 
+- [Lecture 3 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%203%20-%20Linear%20Regression%20-%20Part%201.pptx) 
+- [Linear Regression - Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%203%20-%20Linear%20Regression%20-%20Part%201.ipynb) 
+- [Linear Regression - Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%203-Practice-Code.ipynb)
+
+**Additional Resources**
+
+- My videos on regression lines. [Video 1](https://www.youtube.com/watch?v=QRzaKZRqens), [Video 2](https://www.youtube.com/watch?v=F6ceTd56vc0)
+- This is an [excellent book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf). In Lecture 3 and Lecture 4, we are going to cover Chapter 3 of this textbook.
+- [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/api.html) - [Weighted Least Square Method (WLS)](http://www.econ.uiuc.edu/~wsosa/econ471/GLSHeteroskedasticity.pdf) 
+- Good resource for [heteroskedasticity](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
+- [Here](http://math.arizona.edu/~calc/Text/Section12.3.pdf) Contours are elegantly introduced.)
+
+
+
+ 
