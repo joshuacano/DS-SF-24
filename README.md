@@ -76,7 +76,7 @@ Tuesdays | Thursdays
 **HW 1 is Assigned**
 
  - Please read and follow instructions from [readme](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW1/readme.md)
- - This homework is due on Jun 23rd, 2016 at 6:30PM
+ - This homework is due on June 23rd, 2016 at 6:30PM
 
 **Additional Resources**
 
@@ -97,15 +97,40 @@ Tuesdays | Thursdays
 - [Lecture 3 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%203%20-%20Linear%20Regression%20-%20Part%201.pptx) 
 - [Linear Regression - Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%203%20-%20Linear%20Regression%20-%20Part%201.ipynb) 
 - [Linear Regression - Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%203-Practice-Code.ipynb)
+- [Linear Regression - Part I - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%203-Practice-Solution.ipynb)
 
 **Additional Resources**
 
 - My videos on regression lines. [Video 1](https://www.youtube.com/watch?v=QRzaKZRqens), [Video 2](https://www.youtube.com/watch?v=F6ceTd56vc0)
 - This is an [excellent book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf). In Lecture 3 and Lecture 4, we are going to cover Chapter 3 of this textbook.
-- [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/api.html) - [Weighted Least Square Method (WLS)](http://www.econ.uiuc.edu/~wsosa/econ471/GLSHeteroskedasticity.pdf) 
+- [Seaborn](https://web.stanford.edu/~mwaskom/software/seaborn/api.html) 
+- [Weighted Least Square Method (WLS)](http://www.econ.uiuc.edu/~wsosa/econ471/GLSHeteroskedasticity.pdf) 
 - Good resource for [heteroskedasticity](http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html)
 - [Here](http://math.arizona.edu/~calc/Text/Section12.3.pdf) Contours are elegantly introduced.)
 
 
+## Lecture 4 Summary (Linear Regression Lines - Part II)
+- Hypothesis test - test of significance on regression coefficients
+- p-values
+- Capture non-linearity using Linear Regression lines.
+- R-squared
+- Interaction Effects
 
+**Resources**
  
+- [Lecture 4 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%204%20-%20Regression%20-%20Part%202.pptx) 
+- [Linear Regression - Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%204%20-%20Linear%20Regression%20-%20Part%202.ipynb) 
+- [Linear Regression - Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%204-Practice-Code.ipynb)
+
+**Additional Resources**
+
+- My videos on regression lines. [Video 1](https://www.youtube.com/watch?v=QRzaKZRqens), [Video 2](https://www.youtube.com/watch?v=F6ceTd56vc0)
+- This is an [excellent book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf). In Lecture 3 and Lecture 4, we covered Chapter 3 of this textbook.
+- [statmodels.formula.api](http://statsmodels.sourceforge.net/devel/)
+
+**HW 2 is Assigned**
+
+ - Please read and follow instructions from [readme](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/readme.md)
+ - [Here](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Starter-Code.ipynb) you can find iPython notebook of your 2nd assignment.
+ - This homework is due on June 30th, 2016 at 6:30PM
+
