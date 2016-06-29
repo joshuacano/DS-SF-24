@@ -121,6 +121,7 @@ Tuesdays | Thursdays
 - [Lecture 4 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%204%20-%20Regression%20-%20Part%202.pptx) 
 - [Linear Regression - Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%204%20-%20Linear%20Regression%20-%20Part%202.ipynb) 
 - [Linear Regression - Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture%204-Practice-Code.ipynb)
+- [Linear Regression - Part II - Practice Solution](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture4-Practice-Solution.ipynb)
 
 **Additional Resources**
 
@@ -133,4 +134,28 @@ Tuesdays | Thursdays
  - Please read and follow instructions from [readme](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/readme.md)
  - [Here](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Starter-Code.ipynb) you can find iPython notebook of your 2nd assignment.
  - This homework is due on June 30th, 2016 at 6:30PM
+
+## Lecture 5 Summary (Model Selection)
+
+- Bias-Variance Trade off
+- Validation (Test vs Train set)
+- Cross-Validation
+- Ridge and Lasso Regression
+- (Optional) Backward Selection, Forward Selection, All Subset Selection. (If you want to use these methods you need to use R)
+
+**Resources**
+ 
+ - [Lecture 5 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%205%20-%20Model%20Selection.pptx) 
+ - [Model Selection - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture5-Model_Selection.ipynb) 
+ - [Model Selection  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture5-Practice-Code.ipynb) 
+ - [HW 1 - Key](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW1/HW1-Key.ipynb)
+ 
+ **Additional Resources**
+ 
+ - [Preprocessing](http://scikit-learn.org/stable/modules/preprocessing.html) Library
+ - [Cross-Validation](http://scikit-learn.org/stable/modules/cross_validation.html) Library
+ - This is an [excellent book](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf). You can find theory of Cross-Validation in Chapter 5. You can also learn about Lasso and Ridge regression in Chapter 6 of the mentioend textbook.
+ - [Here](https://www.youtube.com/watch?v=oTeXrcyaqKA) you can find my video on Cross-Validation
+ - [Here](https://www.youtube.com/watch?v=2KTRa3QKvMY) you can find my video on Ridge and Lasso Regression
+ - [Here](https://www.youtube.com/watch?v=fV1LQV0bQTU) you can find my video on Best subset selection.
 
