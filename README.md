@@ -199,10 +199,26 @@ Tuesdays | Thursdays
 - [Lecture 7 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%207%20-%20KNN.pptx) 
 - [K-Nearest Neighbors - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-KNN.ipynb) 
 - [K-Nearest Neighbors  - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Code.ipynb) 
+- [K-Nearest Neighbors - Practice Solution](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture7-Practice-Solution.ipynb)
 
 **Announcements**
 
 - [HW 2 Solutions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW2/HW2-Solution.ipynb) are posted.
 
+## Lecture 8 Summary (Logistic Regression Part I)
 
+- Logistic Regression - Intro
+- Odds vs Probability
+- Using Logistic Regression to Make predictions
+- How one interprets coefficients of a Logistic Regression model
+- Strength and weaknesses of Logistic Regression Model
 
+**Resources**
+ 
+- [Lecture 8 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%208-Logistic_Regression_Part%20I.pptx) 
+- [Logistic Regression Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8.ipynb) 
+- [Logistic Regression Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Code.ipynb) 
+
+**Additional Resources**
+
+- Logistic Regression [video](https://www.youtube.com/watch?time_continue=374&v=r-yv6GbWep4)
