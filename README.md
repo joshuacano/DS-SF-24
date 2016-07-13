@@ -174,6 +174,7 @@ Tuesdays | Thursdays
 - [Lecture 6 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%206-Missing%20Data-Imputation.pptx) 
 - [Missing Data and Imputation - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture6-MissingData.ipynb) 
 - [Missing Data and Imputation  - Practice Code and HW 3](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture6-Practice-Code.ipynb) 
+- [Missing Data and Imputation - Solution Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture6-Practice-Solution.ipynb)
 
 **Additional Resources**
 
@@ -218,7 +219,27 @@ Tuesdays | Thursdays
 - [Lecture 8 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%208-Logistic_Regression_Part%20I.pptx) 
 - [Logistic Regression Part I - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8.ipynb) 
 - [Logistic Regression Part I - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Code.ipynb) 
+- [Logistic Regression Part I - Practice Solutions](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture8-Practice-Solutions.ipynb)
 
 **Additional Resources**
 
 - Logistic Regression [video](https://www.youtube.com/watch?time_continue=374&v=r-yv6GbWep4)
+
+**HW 3 Solutions Posted**
+
+- [HW 3 Soltions](https://github.com/ga-students/DS-SF-24/blob/master/HW%20Assignments/HW3/HW3-Solution.ipynb)
+
+## Lecture 9 Summary (Logistic Regression Part II)
+
+- Unbalanced observations and Logistic Regression
+- FP/FN/TP/TN/FPR/TPR
+- The effect of changing Threshhold
+- ROC Curves
+- Area Under Curve
+- How to compare classifciation algorithms
+
+**Resources**
+ 
+- [Lecture 9 - Slides](https://github.com/ga-students/DS-SF-24/blob/master/Lecture%20Notes-Slides/Lecture%209-Logistic%20Regression_Part%20II.pptx)
+- [Logistic Regression Part II - Lab Codes](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9.ipynb) 
+- [Logistic Regression Part II - Practice Code](https://github.com/ga-students/DS-SF-24/blob/master/Code/Lecture9-Practice-Code.ipynb) 
